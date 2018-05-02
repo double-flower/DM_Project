@@ -76,12 +76,12 @@ Frequent Itemsets:
 73:  Organic Tomato Cluster	support=0.014
 74:  Organic Red Onion	support=0.0198
 75:  Green Bell Pepper	support=0.0122
-76:  ('Bag of Organic Bananas', 'Organic Hass Avocado')	support=0.0164
-77:  ('Banana', 'Organic Baby Spinach')	support=0.0128
-78:  ('Banana', 'Organic Avocado')	support=0.0148
-79:  ('Bag of Organic Bananas', 'Organic Raspberries')	support=0.0113
-80:  ('Banana', 'Organic Strawberries')	support=0.0133
+76:  ('Banana', 'Organic Baby Spinach')	support=0.0128
+77:  ('Bag of Organic Bananas', 'Organic Raspberries')	support=0.0113
+78:  ('Bag of Organic Bananas', 'Organic Hass Avocado')	support=0.0164
+79:  ('Banana', 'Organic Strawberries')	support=0.0133
+80:  ('Banana', 'Organic Avocado')	support=0.0148
 81:  ('Banana', 'Large Lemon')	support=0.0127
 There are 81 frequent itemsets
 Confident Rules:
-Rule1:	 ('Bag of Organic Bananas',)	-->('Organic Hass Avocado',)	 [sup=0.0164 conf=0.1507 lift=3.0571Rule2:	 ('Organic Hass Avocado',)	-->('Bag of Organic Bananas',)	 [sup=0.0164 conf=0.3332 lift=3.0571Rule3:	 ('Organic Baby Spinach',)	-->('Banana',)	 [sup=0.0128 conf=0.1944 lift=1.4359Rule4:	 ('Banana',)	-->('Organic Avocado',)	 [sup=0.0148 conf=0.1095 lift=2.1555Rule5:	 ('Organic Avocado',)	-->('Banana',)	 [sup=0.0148 conf=0.2918 lift=2.1555Rule6:	 ('Bag of Organic Bananas',)	-->('Organic Raspberries',)	 [sup=0.0113 conf=0.104 lift=2.9807Rule7:	 ('Organic Raspberries',)	-->('Bag of Organic Bananas',)	 [sup=0.0113 conf=0.3248 lift=2.9807Rule8:	 ('Organic Strawberries',)	-->('Banana',)	 [sup=0.0133 conf=0.19 lift=1.4037Rule9:	 ('Large Lemon',)	-->('Banana',)	 [sup=0.0127 conf=0.262 lift=1.9353There are 9 confident rules
+Rule1:	 ('Organic Baby Spinach',)	-->('Banana',)	 [sup=0.0128 conf=0.1944 lift=1.4359Rule2:	 ('Bag of Organic Bananas',)	-->('Organic Raspberries',)	 [sup=0.0113 conf=0.104 lift=2.9807Rule3:	 ('Organic Raspberries',)	-->('Bag of Organic Bananas',)	 [sup=0.0113 conf=0.3248 lift=2.9807Rule4:	 ('Bag of Organic Bananas',)	-->('Organic Hass Avocado',)	 [sup=0.0164 conf=0.1507 lift=3.0571Rule5:	 ('Organic Hass Avocado',)	-->('Bag of Organic Bananas',)	 [sup=0.0164 conf=0.3332 lift=3.0571Rule6:	 ('Organic Strawberries',)	-->('Banana',)	 [sup=0.0133 conf=0.19 lift=1.4037Rule7:	 ('Banana',)	-->('Organic Avocado',)	 [sup=0.0148 conf=0.1095 lift=2.1555Rule8:	 ('Organic Avocado',)	-->('Banana',)	 [sup=0.0148 conf=0.2918 lift=2.1555Rule9:	 ('Large Lemon',)	-->('Banana',)	 [sup=0.0127 conf=0.262 lift=1.9353There are 9 confident rules
